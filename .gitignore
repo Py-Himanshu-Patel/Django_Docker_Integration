@@ -1,0 +1,12 @@
+# virtual environment
+venv/
+
+# vscode files
+django_docker.code-workspace
+.vscode/
+
+# python cache
+*.pyc
+
+# environment secrets
+src/.env
